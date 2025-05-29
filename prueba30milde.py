@@ -28,10 +28,10 @@ GRIS = (100, 100, 100)
 FUENTE = pygame.font.SysFont("Arial", 36)
 RELOJ = pygame.time.Clock()
 
-imagen_auto_naranja = pygame.image.load("carro_naranja.png")
+imagen_auto_naranja = pygame.image.load("carro_naranja.jpg")
 imagen_auto_naranja = pygame.transform.scale(imagen_auto_naranja, (40, 80))
 
-imagen_auto_azul = pygame.image.load("carro_azul.png")
+imagen_auto_azul = pygame.image.load("carro_azul.jpg")
 imagen_auto_azul = pygame.transform.scale(imagen_auto_azul, (40, 80))
 
 
